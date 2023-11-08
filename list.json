@@ -23,7 +23,7 @@
         },
         {
             "name": "Immortal",
-            "icon": "icons/immortal.gif",
+            "icon": null,
             "desc": "IMMORTAL WINS!!!",
             "data": "apps/immortal.app.zip",
             "category": "plugin"
