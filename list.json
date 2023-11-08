@@ -20,6 +20,20 @@
             "desc": "A plugin to run SWF Files",
             "data": "apps/flash.app.zip",
             "category": "plugin"
+        },
+        {
+            "name": "Immortal",
+            "icon": "icons/immortal.gif",
+            "desc": "IMMORTAL WINS!!!",
+            "data": "apps/immortal.app.zip",
+            "category": "plugin"
+        },
+        {
+            "name": "Sodium",
+            "icon": "icons/sodium.png",
+            "desc": "Sodium for Anura",
+            "data": "apps/sodium.app.zip",
+            "category": "plugin"
         }
     ]
 }
